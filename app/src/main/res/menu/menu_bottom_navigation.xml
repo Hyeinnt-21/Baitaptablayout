@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/news" android:title="Name" android:icon="@drawable/star_rate_svgrepo_com"/>
+    <item android:id="@+id/orders" android:title="Id" android:icon="@drawable/star_rate_svgrepo_com"/>
+    <item android:id="@+id/account" android:title="Class" android:icon="@drawable/star_rate_svgrepo_com"/>
+
+</menu>
